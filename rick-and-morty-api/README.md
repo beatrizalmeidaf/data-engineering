@@ -43,9 +43,3 @@ Este projeto proporciona experiências práticas em diversas áreas fundamentais
 - **SQL:** Criação e consulta de dados em bancos relacionais.
 - **Serviços em Nuvem:** Interação com AWS S3 e RDS.
 - **Infraestrutura como Código:** Automatização de infraestrutura com Terraform.
-
----
-
-### Conclusão
-Este projeto oferece uma abordagem prática e estruturada para o aprendizado e aplicação de habilidades de Engenharia de Dados. A partir de uma simples ideia, você será capaz de criar soluções reais e agregar valor ao seu portfólio profissional.
-
