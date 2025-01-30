@@ -45,4 +45,3 @@ O repositório de **Data Engineering** é para projetos, anotações e experimen
 - Documentações oficiais das ferramentas utilizadas  
 - Comunidade de engenharia de dados no LinkedIn e YouTube  
 
----
